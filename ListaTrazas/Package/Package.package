@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e58ffe26-9d28-4b65-be81-5f707d972348" solutionId="e58ffe26-9d28-4b65-be81-5f707d972348" resetWebServer="false" sharePointProductVersion="16.0" name="ListaTrazas" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="4ff8c190-09b1-472e-8bb0-38d41b8fa452" />
+  </features>
+</package>

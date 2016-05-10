@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="e58ffe26-9d28-4b65-be81-5f707d972348" SharePointProductVersion="16.0">
+  <FeatureManifests>
+    <FeatureManifest Location="ListaTrazas_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
